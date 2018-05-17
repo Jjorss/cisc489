@@ -14,7 +14,7 @@ Our goal is to determine an asteroid’s profitability based on the current data
 
 * Classifying asteroids is something that is quite frequently done by scientists around the world. However, classifying based specifically on profitability is not. 
 
-### image here
+## Results (edit needs explainations)
 ![picture](https://github.com/Jjorss/cisc489/blob/master/images/LogLoss.png)
 ![picture](https://github.com/Jjorss/cisc489/blob/master/images/ROC_curve.png)
 ![picture](https://github.com/Jjorss/cisc489/blob/master/images/parameters_learning%20model.png)
