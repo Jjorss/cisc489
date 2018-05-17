@@ -13,11 +13,7 @@ Our goal is to determine an asteroid’s profitability based on the current data
 * Space exploration could be only a few decades away. If there was a clearly defined financial incentive for companies and private entities to launch space missions, space travel and colonization of space could be more feasible.
 
 * Classifying asteroids is something that is quite frequently done by scientists around the world. However, classifying based specifically on profitability is not. 
-
-## Results (edit needs explainations)
-![picture](https://github.com/Jjorss/cisc489/blob/master/images/LogLoss.png)
-![picture](https://github.com/Jjorss/cisc489/blob/master/images/ROC_curve.png)
-![picture](https://github.com/Jjorss/cisc489/blob/master/images/parameters_learning%20model.png)
+### image here
 
 ## Purpose and Research Question
 * The purpose of this research project was initially to classify asteroids based on potential profitability. 
@@ -31,7 +27,10 @@ We obtained our data set from the Asterank database. This database pull asteroid
 Methods and prediction for cost
 Asterank has its own algorithm for predicting cost efficiency. Our aim was to calculate this in a more accurate way. Our first step was to run a clustering algorithm on our data set. This was to determine which attributes had the most impact on the profit of an asteroid. The attributes we found that had the most impact on profit were closeness and mass Once obtained, we then trained our machine learning model with the attributes.
 
-## Results
+## Results (edit needs explainations)
+![picture](https://github.com/Jjorss/cisc489/blob/master/images/LogLoss.png)
+![picture](https://github.com/Jjorss/cisc489/blob/master/images/ROC_curve.png)
+![picture](https://github.com/Jjorss/cisc489/blob/master/images/parameters_learning%20model.png)
 
 ## Conclusions
 * As of now, no conclusions can realistically be made from our research. 
