@@ -20,7 +20,7 @@ Our goal is to determine an asteroid’s profitability based on the current data
 
 * Using an data from an open-source project called AsterRank, we aimed to predict whether an asteroid would be profitable for a mining mission using based on features such as mass and closeness, using logistic regression and clustering.
 
-## Subject, Method, and Analysis (needs analysis)
+## Subject, Method, and Analysis
 
 * We obtained our data set from the Asterank database. This database pull asteroid data from the Nasa/JPL small body database and various published asteroid mass data. We choose this data due to the ease of use and access of their API.
 
@@ -29,6 +29,8 @@ Our goal is to determine an asteroid’s profitability based on the current data
 * We created a column in our dataset that marked if an asteroid was high profit or not base on if its profit was in the 75th percentile.
 
 * We used a linear regression model to determine which asteroids were most profitable. Our data set contained 1000 asteroids. We used 800 to train the model and the 200 remaining for verfication.
+
+* overall we were able to correctly determine if an asteroid is profitable or not with 88% accuracy. Our AUC was 68%. Our model we have trained did not preform to expectations and we plan to improve upom it in further research.
 
 ## Results (edit needs explainations)
 ![picture](https://github.com/Jjorss/cisc489/blob/master/images/LogLoss.png)
