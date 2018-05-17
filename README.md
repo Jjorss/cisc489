@@ -13,7 +13,8 @@ Our goal is to determine an asteroid’s profitability based on the current data
 * Space exploration could be only a few decades away. If there was a clearly defined financial incentive for companies and private entities to launch space missions, space travel and colonization of space could be more feasible.
 
 * Classifying asteroids is something that is quite frequently done by scientists around the world. However, classifying based specifically on profitability is not. 
-### image here
+![picture](https://github.com/Jjorss/cisc489/blob/master/images/ryugu.png)
+The asteroid Ryugu, with a estimated profitability of 30.4 Billion (Asterank)
 
 ## Purpose and Research Question
 * The purpose of this research project was initially to classify asteroids based on potential profitability. 
