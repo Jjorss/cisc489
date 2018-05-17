@@ -35,8 +35,17 @@ The asteroid Ryugu, with a estimated profitability of 30.4 Billion (Asterank)
 
 ## Results (edit needs explainations)
 ![picture](https://github.com/Jjorss/cisc489/blob/master/images/LogLoss.png)
+* Our model improved over periods as displayed here by logloss.
+* However, the same improvement was not seen on the validation set. A potential cause of this is overfitting.
 ![picture](https://github.com/Jjorss/cisc489/blob/master/images/ROC_curve.png)
+* AUC (Area under ROC curve) 
+* Graph indicates that our model is better than guessing (AUC of .5)
+* Our logistic regression model predicted whether an asteroids profitability was above the 3rd quantitle with an 88% accuracy on the validation set.
 ![picture](https://github.com/Jjorss/cisc489/blob/master/images/parameters_learning%20model.png)
+* Trained a logistic regression model as a classifier using batched gradient descent. 
+* Instances are divided into batches of 10, and model error is calculated. 
+* Error is then used to update weights of the logistic regression model. 
+* Testing found that these parameters produced the best model.
 
 ## Conclusions
 * As of now, no conclusions can realistically be made from our research. 
