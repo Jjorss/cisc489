@@ -45,4 +45,9 @@ Asterank has its own algorithm for predicting cost efficiency. Our aim was to ca
 * Also, examining the estimated composition of different minerals and seeing how that correlates with profitability. Currently the model is created with proximity and asteroid size as heavily weighted factors. This is reasonable - the current cost of leaving the Earth’s atmosphere means that we should seek to get the most bang for our buck.
 * Furthermore, examining whether we can find proximally tight clusters with high probability would be a great way to achieve the above bullet point.
 
-
+# Link to Google Notebook
+https://drive.google.com/open?id=1IfEuc6LIbYaWwKtO111fPA79yEYovQ-e
+## How to Reproduce Results
+1. Download full dataset
+2. Go to Google Notebook
+3. Run Each cell, First cell will prompt you to upload the full dataset.
